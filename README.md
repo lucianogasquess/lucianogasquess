@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm 16 years old and I have the dream of becoming a Web Developer, I live in the countryside of SP, and since I was a child, I spend hours in front of the computer. With a journey of more than 3 years dedicating myself to electronic sports, I now dedicate myself daily to evolve and specialize more and more in Front-End development.
+<p align="left">💻 I'm 17 years old and I have the dream of becoming a Web Developer, I live in the countryside of SP, and since I was a child, I spend hours in front of the computer. With a journey of more than 3 years dedicating myself to electronic sports, I now dedicate myself daily to evolve and specialize more and more in Front-End development.
 <br>
 I am looking for challenges and opportunities that allow me to grow and improve my skills in the Front-End universe.</p>
 
