@@ -45,24 +45,10 @@ Estou em fase de construção de portfólio, com projetos reais que documentam m
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianogasquess&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianogasquess&layout=compact&langs_count=7&theme=github_dark&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
 
 ---
 
-## ⏱️ Atividade de Código (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ## 🎯 Foco Atual
 
@@ -71,8 +57,6 @@ Estou em fase de construção de portfólio, com projetos reais que documentam m
 🐍  Python        ████████░░░░░░░░░░░░   Lógica, automação e análise de dados
 📊  Data Science  █████░░░░░░░░░░░░░░░   Fundamentos: Pandas, visualização e SQL
 ```
-
-Neste momento estou **construindo projetos** que resolvem problemas reais — porque portfólio sem propósito não conta história.
 
 ---
 
