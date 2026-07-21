@@ -44,8 +44,21 @@ Estou em fase de construção de portfólio, com projetos reais que documentam m
 </div>
 
 ---
+### 📊 Estatísticas
 
+<p align="center">
 
+<img
+height="180"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucianogasquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucianogasquess&layout=compact&theme=tokyonight"
+/>
+
+</p>
 
 ---
 
